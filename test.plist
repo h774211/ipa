@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>tw.com.astrocorp.ocm.test</string>
 				<key>bundle-version</key>
-				<string>1.0.1</string>
+				<string>1.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>測試.ipa</string>
+				<string>測試1.0.2.ipa</string>
 			</dict>
 		</dict>
 	</array>
